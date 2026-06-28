@@ -3,7 +3,7 @@ JSON
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://3000-i4r2k1wm404wky29l9dzq-d0b9e1e2.sandbox.novita.ai/login",
+      "destination": "https://3000-i4r2k1wm404wky29l9dzq-d0b9e1e2.sandbox.novita.ai/$1",
       "permanent": true
     }
   ]
